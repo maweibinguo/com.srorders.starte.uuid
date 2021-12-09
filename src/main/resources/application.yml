@@ -1,0 +1,12 @@
+spring:
+  redis:
+    host: 127.0.0.1
+    password: 123123123
+    timeout: 500
+    connectTimeout: 500
+    clientType: LETTUCE
+
+  uuid:
+    serverId: 2
+    workerId: 3
+    offsetTime: 2021-12-07 22:41:00
